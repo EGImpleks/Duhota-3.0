@@ -2,7 +2,7 @@ module Base
 {
     item MetalSpearCrafted
     {
-        MaxRange            = 1.5,
+        MaxRange            = 1.6,
         WeaponSprite        = MetalSpearCrafted,
         MinAngle            = 0.8,
         Type                = Weapon,
